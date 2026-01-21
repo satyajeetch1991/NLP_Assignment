@@ -1,0 +1,6 @@
+text,label,clean_text,no_stopwords,lemmatized_text,encoded_label
+Natural Language Processing is amazing!,tech,natural language processing is amazing,natural language processing amazing,natural language processing amazing,1
+Machine learning helps computers understand language.,tech,machine learning helps computers understand language,machine learning helps computers understand language,machine learning help computer understand language,1
+TF-IDF and NLP are important techniques.,tech,tfidf and nlp are important techniques,tfidf nlp important techniques,tfidf nlp important technique,1
+Stop words should be removed from text,preprocess,stop words should be removed from text,stop words removed text,stop word removed text,0
+Lemmatization converts words into base form,preprocess,lemmatization converts words into base form,lemmatization converts words base form,lemmatization convert word base form,0
